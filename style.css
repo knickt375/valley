@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #f8f9f9;
+  font-family: Calibri, sans-serif;
+  text-align: center;
+}
+article {
+  padding: 50px;
+}
+h1 {
+  color: #2c3e50;
+  font-size: 2.2em;
+}
+p {
+  color: #555;
+  font-size: 1.1em;
+}
+img {
+  width: 290px;
+  margin-top: 25px;
+  border-radius: 20px;
+  box-shadow: 0 5px 14px rgba(0,0,0,0.25);
+}
